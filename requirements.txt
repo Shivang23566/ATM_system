@@ -1,0 +1,11 @@
+mysql-connector-python
+python-dotenv
+os
+
+
+
+
+
+
+
+# MySql must be installed in pc
