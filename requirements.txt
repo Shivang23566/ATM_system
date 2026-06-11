@@ -1,6 +1,8 @@
 mysql-connector-python
 python-dotenv
-os
+pyotp
+qrcode
+pillow
 
 
 
